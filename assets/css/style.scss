@@ -1,0 +1,18 @@
+
+$white: #ffffff;
+$red: #ff3b3b;
+$yellow: #fffd3b;
+
+body, html {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: $red;
+    color: $white;
+
+    a {
+        color: $yellow;
+    }
+}
